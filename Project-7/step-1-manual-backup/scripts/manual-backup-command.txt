@@ -1,0 +1,7 @@
+/Applications/Postgres.app/Contents/Versions/latest/bin/pg_dump \
+-U postgres \
+-h localhost \
+-p 5433 \
+-F c \
+-d dvdrental \
+-f ./backups/dvdrental_backup.dump
