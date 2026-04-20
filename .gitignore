@@ -1,1 +1,4 @@
 .DS_Store
+
+*.dump
+Project-7/step-3-cron-automation/backups/
