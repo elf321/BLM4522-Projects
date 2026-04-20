@@ -7,7 +7,7 @@ USER="postgres"
 HOST="localhost"
 PORT="5433"
 
-BASE_DIR="$(pwd)"
+BASE_DIR="/Users/elifpolat/Desktop/BLM4522-Projects/project-7/step-2-backup-script"
 BACKUP_DIR="$BASE_DIR/backups"
 LOG_DIR="$BASE_DIR/logs"
 
